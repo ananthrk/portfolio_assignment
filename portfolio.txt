@@ -1,0 +1,3 @@
+[(SGI, 100), (INFY, 50), (HCLP, 10)]
+[(INFY, 50), (HCLP, 10)]
+[(INFY, 100), (WIP, 90), (HCLP, 80)]
